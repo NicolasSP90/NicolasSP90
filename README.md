@@ -15,8 +15,8 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 ## <a href="https://github.com/NicolasSP90/KNN_SantanderCoders2024">Algorítmo KNN</a>
 Para o primeiro projeto do curso de Engenharia de Dados, tivemos que aplicar algumas definições básicas de python e lógica de programação para criar um algorítmo de KNN sem o auxílio de bibliotecas externas. O KNN (K-Nearest Neighbors) é um modelo supervisionado de Machine Learning que pode ser utilizado tanto para classificação quanto para regressão. O desafio envolve criar e utilizar o modelo para corretamente classificar o perfil de investidores baseado nas carteiras de investimento.
 
-## <a href="https://github.com/NicolasSP90/DataStudies-LetsData">Let's Data</a>
-Repositório referente ao curso "Jornada Cientista de Dados" pelo Let's Data. Inclui projetos de Análise Exploratória de Dados, Previsão de Custos de Seguro, Previsão de Churn, Segmentação de Clientes e Utilização de Redes Neurais para Classificação de Imagens. Além dos projetos também existem atividades e projetos complementares, podendo citar: aplicações de RegEx, SQL, projetos de Visão Computacional, Séries Temporais entre outros.
+## <a href="https://github.com/NicolasSP90/DataStudies-LetsData">EDA - ENEM 2023</a>
+Projeto de Análise Exploratoria de Dados (EDA). O intuito do projeto é aplicar tecnologias e técnicas aprendidas em um projeto com dados reais. A partir disso, obter insights sobre os dados apresentados. A base de dados é referente ao ENEM de 2023, disponibilizada publicamente.
 
 ## <a href="https://github.com/NicolasSP90/ChallengeDecodificador">Challenge Alura - Decodificador</a>
 O início da trilha de Back-End do programa Oracle Next Education traz conceitos de lógica de programação e desenvolvimento web em HTML e CSS. Esse projeto é a última etapa do início do curso, e possui algumas regras específicas que deveriam ser seguidas, mas com a obrigatoriedade de personalização pessoal. O deploy pode ser visualizado no <a href="https://nicolassp90.github.io/ChallengeDecodificador/">GitHub Pages</a> ou no <a href="https://alura-challenge-decodificador-seven.vercel.app/">Vercel</a>.
@@ -40,6 +40,7 @@ Projeto Pessoal. Jogo e Mestro campanhas de RPG. Normalmente o início das campa
 
 ![SQL](https://img.shields.io/badge/SQL-000?style=border_radius&logo=sql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=border_radius&logo=postgresql&logoColor=blue) 
+
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=borde_radius&logo=html5&logoColor=blue) 
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=borde_radius&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=border_radius&logo=javascript&logoColor=blue)
@@ -49,7 +50,8 @@ Projeto Pessoal. Jogo e Mestro campanhas de RPG. Normalmente o início das campa
 ![Git](https://img.shields.io/badge/Git-black?style=border_radius&logo=git&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=border_radius&logo=github&logoColor=blue)
 ![AWS](https://img.shields.io/badge/AWS-black?style=border_radius&logo=amazon-aws&logoColor=blue)
-![Docker](https://img.shields.io/badge/docker-000?styleborder_radius&logo=docker&logoColor=blue)
+![Docker](https://img.shields.io/badge/docker-000?style=border_radius&logo=docker&logoColor=blue)
+![draw.io](https://img.shields.io/badge/draw.io-000?styleborder_radius&logo=diagrams&logoColor=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSP90&layout=compact&theme=github_dark)
 
