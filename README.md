@@ -18,7 +18,7 @@ Para o primeiro projeto do curso de Engenharia de Dados, tivemos que aplicar alg
 ## [Predição de Preços](https://github.com/NicolasSP90/Predicao_Precos)
 Projeto de Prediçao de Preços. O intuito do projeto é aplicar tecnologias e técnias para rever o resultado do valor de seguro de vida, baseado nos dados do usuário. O projeto é baseado em modelos de regressão linear e compara as métricas com árvore de decisão.
 
-## [EDA - ENEM 2023](ttps://github.com/NicolasSP90/EDA_ENEM2023)
+## [EDA - ENEM 2023](https://github.com/NicolasSP90/EDA_ENEM2023)
 Projeto de Análise Exploratoria de Dados (EDA). A base de dados é referente ao ENEM de 2023, disponibilizada publicamente. O intuito do projeto é aplicar tecnologias e técnicas aprendidas em um projeto com dados reais. A partir disso, obter insights sobre os dados apresentados. 
 
 ## [Challenge Alura - Decodificador](https://github.com/NicolasSP90/ChallengeDecodificador)
