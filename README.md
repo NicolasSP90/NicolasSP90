@@ -30,7 +30,7 @@ Projeto pessoal. Desde os meus 15 anos eu leio o Mangá One Piece. Decidi automa
 ## [DiscordBot - The Firemind](https://github.com/NicolasSP90/DiscordBot---The-Firemind)
 Projeto Pessoal. Criei um servidor Discord para a campanha que mestro e decidi adicionar algumas apllicações para os jogadores. Coloquei algumas integrações e bots para o jogo e decidi criar um Bot a partir da API da OpenAI para caso algo precise ser criado na hora, poderia utilizar o bot e a interação com os jogadores. Esse é o projeto do Bot e o nome é em referência a um personagem do cardgame Magic the Gathering.
 
-## [Fiasco2DnD](ttps://github.com/NicolasSP90/Fiasco2DnD)
+## [Fiasco2DnD](https://github.com/NicolasSP90/Fiasco2DnD)
 Projeto Pessoal. Jogo e Mestro campanhas de RPG. Normalmente o início das campanhas é necessário fazer uma gambiarra narrativa para que os personagens possuam um motivo para continuarem como grupo. Pensando em deixar essa situação mais flúida, fiz uma pequena automação para gerar conexões aleatórias entre os jogadores. A adaptação é baseada em um RPG de nome "Fiasco".
 
 ---
