@@ -15,8 +15,11 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 ## [Algorítmo KNN](https://github.com/NicolasSP90/KNN_SantanderCoders2024)
 Para o primeiro projeto do curso de Engenharia de Dados, tivemos que aplicar algumas definições básicas de python e lógica de programação para criar um algorítmo de KNN sem o auxílio de bibliotecas externas. O KNN (K-Nearest Neighbors) é um modelo supervisionado de Machine Learning que pode ser utilizado tanto para classificação quanto para regressão. O desafio envolve criar e utilizar o modelo para corretamente classificar o perfil de investidores baseado nas carteiras de investimento.
 
+## [Predição de Churn](https://github.com/NicolasSP90/Predicao_Churn)
+Projeto de Prediçao de Churn. O intuito do projeto é aplicar tecnologias e técnias para prever o Churn dos funcionários d euma empresa, baseado nos dados do disponíveis. O projeto é baseado em modelos de classificação da biblioteca scikit-learn, xgboost e lightgbm e a comaração das métricas entre eles.
+
 ## [Predição de Preços](https://github.com/NicolasSP90/Predicao_Precos)
-Projeto de Prediçao de Preços. O intuito do projeto é aplicar tecnologias e técnias para rever o resultado do valor de seguro de vida, baseado nos dados do usuário. O projeto é baseado em modelos de regressão linear e compara as métricas com árvore de decisão.
+Projeto de Prediçao de Preços. O intuito do projeto é aplicar tecnologias e técnias para prever o resultado do valor de seguro de vida, baseado nos dados do usuário. O projeto é baseado em modelos de regressão linear e compara as métricas com árvore de decisão.
 
 ## [EDA - ENEM 2023](https://github.com/NicolasSP90/EDA_ENEM2023)
 Projeto de Análise Exploratoria de Dados (EDA). A base de dados é referente ao ENEM de 2023, disponibilizada publicamente. O intuito do projeto é aplicar tecnologias e técnicas aprendidas em um projeto com dados reais. A partir disso, obter insights sobre os dados apresentados. 
