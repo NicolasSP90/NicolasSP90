@@ -1,6 +1,6 @@
 # Quem sou eu
 
-Meu nome é Nícolas Sartor Parisotto. Tenho 13 anos de experiência em desenvolvimento de tecnologias e projetos e estou atualmente dedicando meu tempo para me desenvolver nas áreas de Data Science, Data Engineering e Software Development. Estou em busca de vadas de entrada/júnior ou mesmo estágio.
+Meu nome é Nícolas Sartor Parisotto. Tenho 13 anos de experiência em desenvolvimento de tecnologias e projetos e estou atualmente dedicando meu tempo para me desenvolver nas áreas de Data Science, Data Engineering e Software Development. Estou em busca de vagas de entrada/júnior ou mesmo estágio.
 
 Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.vercel.app/">aqui</a>
 
