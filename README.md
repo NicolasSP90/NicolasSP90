@@ -10,6 +10,31 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 
 ---
 
+# Tecnologias
+
+![Python](https://img.shields.io/badge/Python-000?style=border_radius&logo=python&logoColor=blue)
+![pyenv](https://img.shields.io/badge/pyenv-000?style=border_radius)
+![poetry](https://img.shields.io/badge/poetry-000?style=border_radius)
+
+![SQL](https://img.shields.io/badge/SQL-000?style=border_radius&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=border_radius&logo=postgresql&logoColor=blue) 
+
+![HTML5](https://img.shields.io/badge/HTML5-black?style=borde_radius&logo=html5&logoColor=blue) 
+![CSS3](https://img.shields.io/badge/CSS3-black?style=borde_radius&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=border_radius&logo=javascript&logoColor=blue)
+
+![VSCode](https://img.shields.io/badge/VSCode-black?style=border_radius)
+![PyCharm](https://img.shields.io/badge/PyCharm-black?style=border_radius)
+![Git](https://img.shields.io/badge/Git-black?style=border_radius&logo=git&logoColor=blue)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=border_radius&logo=github&logoColor=blue)
+![AWS](https://img.shields.io/badge/AWS-black?style=border_radius&logo=amazon-aws&logoColor=blue)
+![Docker](https://img.shields.io/badge/docker-000?style=border_radius&logo=docker&logoColor=blue)
+![draw.io](https://img.shields.io/badge/draw.io-000?styleborder_radius&logo=diagrams&logoColor=blue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSP90&layout=compact&theme=github_dark)
+
+---
+
 # Projetos e Repositórios
 
 ## [POO CRUD](https://github.com/NicolasSP90/POO_CRUD_SantanderCoders2024)
@@ -41,30 +66,5 @@ Projeto Pessoal. Criei um servidor Discord para a campanha que mestro e decidi a
 
 ## [Fiasco2DnD](https://github.com/NicolasSP90/Fiasco2DnD)
 Projeto Pessoal. Jogo e Mestro campanhas de RPG. Normalmente o início das campanhas é necessário fazer uma gambiarra narrativa para que os personagens possuam um motivo para continuarem como grupo. Pensando em deixar essa situação mais flúida, fiz uma pequena automação para gerar conexões aleatórias entre os jogadores. A adaptação é baseada em um RPG de nome "Fiasco".
-
----
-
-# Tecnologias
-
-![Python](https://img.shields.io/badge/Python-000?style=border_radius&logo=python&logoColor=blue)
-![pyenv](https://img.shields.io/badge/pyenv-000?style=border_radius)
-![poetry](https://img.shields.io/badge/poetry-000?style=border_radius)
-
-![SQL](https://img.shields.io/badge/SQL-000?style=border_radius&logo=sql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=border_radius&logo=postgresql&logoColor=blue) 
-
-![HTML5](https://img.shields.io/badge/HTML5-black?style=borde_radius&logo=html5&logoColor=blue) 
-![CSS3](https://img.shields.io/badge/CSS3-black?style=borde_radius&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=border_radius&logo=javascript&logoColor=blue)
-
-![VSCode](https://img.shields.io/badge/VSCode-black?style=border_radius)
-![PyCharm](https://img.shields.io/badge/PyCharm-black?style=border_radius)
-![Git](https://img.shields.io/badge/Git-black?style=border_radius&logo=git&logoColor=blue)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=border_radius&logo=github&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-black?style=border_radius&logo=amazon-aws&logoColor=blue)
-![Docker](https://img.shields.io/badge/docker-000?style=border_radius&logo=docker&logoColor=blue)
-![draw.io](https://img.shields.io/badge/draw.io-000?styleborder_radius&logo=diagrams&logoColor=blue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSP90&layout=compact&theme=github_dark)
 
 ---
