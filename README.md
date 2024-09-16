@@ -18,6 +18,9 @@ Para o segundo projeto da trilha de Engenharia de Dados do Santander Coders + Ad
 ## [Algorítmo KNN](https://github.com/NicolasSP90/KNN_SantanderCoders2024)
 Para o primeiro pprojeto da trilha de Engenharia de Dados do Santander Coders + AdaTech, tivemos que aplicar algumas definições básicas de python e lógica de programação para criar um algorítmo de KNN sem o auxílio de bibliotecas externas. O KNN (K-Nearest Neighbors) é um modelo supervisionado de Machine Learning que pode ser utilizado tanto para classificação quanto para regressão. O desafio envolve criar e utilizar o modelo para corretamente classificar o perfil de investidores baseado nas carteiras de investimento.
 
+## [Segmentação de Clientes](https://github.com/NicolasSP90/Projeto_PCA_KMeans)
+Projeto de segmentação de clientes. O intuito do projeto é aplicar tecnologias e técnicas para segmentar clientes através de dados de pesquisa realizada junto dos mesmos. O projeto utiliza algorítmos de PCA para diminuição de dimensionalidade e KMeans para segmentação dos clientes com a biblioteca scikit-learn.
+
 ## [Predição de Churn](https://github.com/NicolasSP90/Predicao_Churn)
 Projeto de Prediçao de Churn. O intuito do projeto é aplicar tecnologias e técnias para prever o Churn dos funcionários d euma empresa, baseado nos dados do disponíveis. O projeto é baseado em modelos de classificação da biblioteca scikit-learn, xgboost e lightgbm e a comaração das métricas entre eles.
 
