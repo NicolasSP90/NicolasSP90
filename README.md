@@ -37,6 +37,9 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 
 # Projetos e Repositórios
 
+## [Data Quality](https://github.com/NicolasSP90/Projeto_Data_Quality)
+Para o segundo projeto da trilha de Engenharia de Dados do Santander Coders + AdaTech, tivemos que aplicar conceitos de POO para criar uma classe de Data Quality. A classe deve gerar um relatório com estatística descritiva, dispersão e mais informações sobre uma base de dados em *.csv*. O objetivo é ter informações o suficiente para gerar insights de uma maneira rápida e facilitar as posteriores etapas de limpeza de dados e análise exploratória. Além disso, o projeto tinha como objetivo o trabalho colaborativo utilizando o github para, em grupo, desenvolver a aplicação.
+
 ## [POO CRUD](https://github.com/NicolasSP90/POO_CRUD_SantanderCoders2024)
 Para o segundo projeto da trilha de Engenharia de Dados do Santander Coders + AdaTech, tivemos que aplicar conceitos de POO para criar um CRUD (Create, Read, Update Delete). O objetivo é a manipulaçao de objetos e foi proposto que fosse trabalhado com dicionários. Utilize dessas definições para simular um sistema destinados a Instituições de saúde, com registros de Instituições, Consultas, Médicos e Pacientes (todos fictícios). Também foi criada uma interface para interação com o usuário e um Gerenciado para fazer integração entre Interface, Objetos e arquivos .json. A escolha de arquivos .json se deu porque não poderíamos usar bibliotecas não nativas e porque quis simular a aplicação de um banco de dados.
 
