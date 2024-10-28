@@ -25,10 +25,9 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=border_radius)
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=border_radius)
+![Databricks](https://img.shields.io/badge/DataBricks-black?style=border_radius&logo=databricks&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-black?style=border_radius&logo=git&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=border_radius&logo=github&logoColor=blue)
-![AWS](https://img.shields.io/badge/AWS-black?style=border_radius&logo=amazon-aws&logoColor=blue)
-![Docker](https://img.shields.io/badge/docker-000?style=border_radius&logo=docker&logoColor=blue)
 ![draw.io](https://img.shields.io/badge/draw.io-000?styleborder_radius&logo=diagrams&logoColor=blue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSP90&layout=compact&theme=github_dark)
@@ -37,8 +36,11 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 
 # Projetos e Repositórios
 
+## [Data Pipeline](https://github.com/NicolasSP90/Projeto_DataPipeline)
+Para o quarto projeto da trilha de Engenharia de Dados do Santander Coders + AdaTech, tivemos que criar um pipeline de um processo de ETL. O projeto foi iniciado em ambiente local para realização de alguns testes e então o projeto foi migrado para o *Databricks* para real aplicação. O processo de extração foi realizado a partir de API e tanto os dados brutos como transformados foram salvos em arquivos *.parquet*, sendo os dados transformados também disponibilizados em formato *delta* e em banco de dados para ser acessado diretamente. Finalmente, o processo contou com a elaboração de tabelas para resposta a algumas perguntas de negócio e disponibilização dessas tabelas em bando de dados. O projeto também contou com automação para que os dados pudesses ser extraídos e transformados em intervalos específicos de tempo.
+
 ## [Data Quality](https://github.com/NicolasSP90/Projeto_Data_Quality)
-Para o segundo projeto da trilha de Engenharia de Dados do Santander Coders + AdaTech, tivemos que aplicar conceitos de POO para criar uma classe de Data Quality. A classe deve gerar um relatório com estatística descritiva, dispersão e mais informações sobre uma base de dados em *.csv*. O objetivo é ter informações o suficiente para gerar insights de uma maneira rápida e facilitar as posteriores etapas de limpeza de dados e análise exploratória. Além disso, o projeto tinha como objetivo o trabalho colaborativo utilizando o github para, em grupo, desenvolver a aplicação.
+Para o terceiro projeto da trilha de Engenharia de Dados do Santander Coders + AdaTech, tivemos que aplicar conceitos de POO para criar uma classe de Data Quality. A classe deve gerar um relatório com estatística descritiva, dispersão e mais informações sobre uma base de dados em *.csv*. O objetivo é ter informações o suficiente para gerar insights de uma maneira rápida e facilitar as posteriores etapas de limpeza de dados e análise exploratória. Além disso, o projeto tinha como objetivo o trabalho colaborativo utilizando o github para, em grupo, desenvolver a aplicação.
 
 ## [POO CRUD](https://github.com/NicolasSP90/POO_CRUD_SantanderCoders2024)
 Para o segundo projeto da trilha de Engenharia de Dados do Santander Coders + AdaTech, tivemos que aplicar conceitos de POO para criar um CRUD (Create, Read, Update Delete). O objetivo é a manipulaçao de objetos e foi proposto que fosse trabalhado com dicionários. Utilize dessas definições para simular um sistema destinados a Instituições de saúde, com registros de Instituições, Consultas, Médicos e Pacientes (todos fictícios). Também foi criada uma interface para interação com o usuário e um Gerenciado para fazer integração entre Interface, Objetos e arquivos .json. A escolha de arquivos .json se deu porque não poderíamos usar bibliotecas não nativas e porque quis simular a aplicação de um banco de dados.
