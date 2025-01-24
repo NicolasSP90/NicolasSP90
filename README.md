@@ -16,8 +16,12 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 ![pyenv](https://img.shields.io/badge/pyenv-000?style=border_radius)
 ![poetry](https://img.shields.io/badge/poetry-000?style=border_radius)
 
+![Java](https://img.shields.io/badge/Java-000?style=border_radius&logo=Java&logoColor=blue)
+![Spring](https://img.shields.io/badge/Spring-000?style=border_radius&logo=Spring&logoColor=blue)
+
 ![SQL](https://img.shields.io/badge/SQL-000?style=border_radius&logo=sql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=border_radius&logo=postgresql&logoColor=blue) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=border_radius&logo=postgresql&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=border_radius&logo=mysql&logoColor=blue) 
 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=borde_radius&logo=html5&logoColor=blue) 
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=borde_radius&logo=css3&logoColor=blue)
@@ -25,6 +29,7 @@ Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.verce
 
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=border_radius)
 ![PyCharm](https://img.shields.io/badge/PyCharm-black?style=border_radius)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=border_radius)
 ![Databricks](https://img.shields.io/badge/DataBricks-black?style=border_radius&logo=databricks&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-black?style=border_radius&logo=git&logoColor=blue)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=border_radius&logo=github&logoColor=blue)
@@ -68,6 +73,9 @@ Projeto de Prediçao de Preços. O intuito do projeto é aplicar tecnologias e t
 
 ## [EDA - ENEM 2023](https://github.com/NicolasSP90/EDA_ENEM2023)
 Projeto de Análise Exploratoria de Dados (EDA). A base de dados é referente ao ENEM de 2023, disponibilizada publicamente. O intuito do projeto é aplicar tecnologias e técnicas aprendidas em um projeto com dados reais. A partir disso, obter insights sobre os dados apresentados. 
+
+## [Challenge Alura - Fórum Hub](https://github.com/NicolasSP90/ForumHub)
+Desafio de conclusão da formação Oracle Next Education. Nesse desafio utilizei Java + Spring Framework para desenvolver uma API rest que se conecta ao front-end de uma aplicação de Fórum. O projeto utiliza Spring Web para mapeamento das requisições, Maven para o repositório de dependências, Lombok para auxiliar na manutenção de objetos. Para persistência de dados, foram utilizados Spring Data JPA em conjunto com Flyway Migration, MySQL e Spring Validation. Também foi implementado Spring Security e Json Web Token para autenticação e segurança das requisições. A documentação dos endpoints da API foi realizada com Swagger e Spring Doc.
 
 ## [Challenge Alura - Decodificador](https://github.com/NicolasSP90/ChallengeDecodificador)
 O início da trilha de Back-End do programa Oracle Next Education traz conceitos de lógica de programação e desenvolvimento web em HTML e CSS. Esse projeto é a última etapa do início do curso, e possui algumas regras específicas que deveriam ser seguidas, mas com a obrigatoriedade de personalização pessoal. O deploy pode ser visualizado no <a href="https://nicolassp90.github.io/ChallengeDecodificador/">GitHub Pages</a> ou no <a href="https://alura-challenge-decodificador-seven.vercel.app/">Vercel</a>.
