@@ -2,7 +2,7 @@
 
 Meu nome é Nícolas Sartor Parisotto. Tenho 13 anos de experiência em desenvolvimento de tecnologias e projetos e estou atualmente dedicando meu tempo para me desenvolver nas áreas de Data Science, Data Engineering e Software Development. Estou em busca de vagas de entrada/júnior ou mesmo estágio.
 
-Meu currículo pode ser acessado <a href="https://portfolio-curriculo-five.vercel.app/">aqui</a>
+Meu currículo pode ser acessado <a href="https://nicolassp90.github.io/portfolio_curriculo/">aqui</a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=border_radius&logo=Github&logoColor=blue)](https://github.com/NicolasSP90)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=border_radius&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/nicolasparisotto/)
